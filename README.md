@@ -1,9 +1,9 @@
-# The The FCC Starterkit  
+# The FCC Starterkit  
 
-These are the lessons taught during the [FCC Starterkit][starterkit].
+These are the lessons taught during the [FCC Starterkit][starterkit] (the format is heavily inspired by the LHCb starterkit!).
 If you'd like to join the next workshop, visit [the website][starterkit] to find out when that will how and how to sign up.
 
-If you'd just like to learn about how to use the LHCb software, [read on](first-analysis-steps-renamed/README)!
+If you'd just like to learn about how to use the FCC software, [read on](first-analysis-steps-renamed/README)!
 
 [starterkit]: https://hep-fcc.github.io/fcc-tutorials
 [first-analysis-steps]: https://hep-fcc.github.io/fcc-tutorials/software-basics/

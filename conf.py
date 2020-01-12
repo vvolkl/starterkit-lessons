@@ -2,9 +2,9 @@
 # Here it is useful to allow the configuration to be maintained elsewhere
 from starterkit_ci.sphinx_config import *  # NOQA
 
-project = 'LHCb Starterkit Lessons'
-copyright = '2015-2019, LHCb Starterkit'
-author = 'LHCb Starterkit'
+project = 'FCC Starterkit Lessons'
+copyright = '2020, FCC Starterkit'
+author = 'FCC Starterkit'
 html_logo = 'starterkit.png'
 
 exclude_patterns += [
@@ -16,8 +16,8 @@ exclude_patterns += [
 
 html_context = {
     'display_github': True,
-    'github_user': 'lhcb',
-    'github_repo': 'starterkit-lessons',
+    'github_user': 'HEP-FCC',
+    'github_repo': 'fcc-tutorials',
     'github_version': 'master',
     'conf_py_path': '/',
 }
