@@ -22,18 +22,7 @@ The [analysis essentials course](https://hsf-training.github.io/analysis-essenti
     introduction-to-course.md
     fccsw.md
     bookkeeping.md
-    files-from-grid.md
-    interactive-dst.md
-    minimal-dv-job.md
-    loki-functors.md
-    add-tupletools.md
-    decay-tree-fitter.md
-    davinci-grid.md
-    split-jobs.md
-    ganga-data.md
-    eos-storage.md
-    lhcb-dev.md
+    exploring-fcc-files.md
     asking-questions.md
-    ecgd.md
     contributing-lesson.md
 ```
