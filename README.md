@@ -1,12 +1,12 @@
-# The LHCb Starterkit lessons [![Build Status](https://api.travis-ci.org/lhcb/starterkit-lessons.svg?branch=master)](https://travis-ci.org/lhcb/starterkit-lessons)
+# The The FCC Starterkit  
 
-These are the lessons taught during the [LHCb Starterkit][starterkit].
+These are the lessons taught during the [FCC Starterkit][starterkit].
 If you'd like to join the next workshop, visit [the website][starterkit] to find out when that will how and how to sign up.
 
-If you'd just like to learn about how to use the LHCb software, [read on](first-analysis-steps/README)!
+If you'd just like to learn about how to use the LHCb software, [read on](first-analysis-steps-renamed/README)!
 
-[starterkit]: https://lhcb.github.io/starterkit
-[first-analysis-steps]: https://lhcb.github.io/starterkit-lessons/first-analysis-steps/
+[starterkit]: https://hep-fcc.github.io/fcc-tutorials
+[first-analysis-steps]: https://hep-fcc.github.io/fcc-tutorials/software-basics/
 
 
 ```eval_rst
@@ -15,9 +15,10 @@ If you'd just like to learn about how to use the LHCb software, [read on](first-
     :includehidden:
     :caption: Contents:
 
-    first-analysis-steps/README.md
-    second-analysis-steps/README.md
-    self-guided-lessons/README.md
+    software-basics/README.md
+    fast-sim-and-analysis/README.md
+    full-detector-simulations/README.md
+    developing-fcc-software/README.md
     CONTRIBUTING.md
 
 .. toctree::
@@ -26,4 +27,6 @@ If you'd just like to learn about how to use the LHCb software, [read on](first-
     :caption: External links:
 
     Analysis essentials <https://hsf-training.github.io/analysis-essentials/>
+    LHCb starterkit <https://lhcb.github.io/starterkit>
+    FCC software glossary <https://hep-fcc.github.io/glossary>
 ```

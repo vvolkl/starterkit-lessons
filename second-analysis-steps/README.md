@@ -10,7 +10,7 @@ If you have any problems or questions, you can [open an issue][lessons-issues] o
 
 {% prereq "Prerequisites" %}
 
-Before starting, you should be familiar with the [first analysis steps](/first-analysis-steps/README) and satisfy all of its prerequisites.
+Before starting, you should be familiar with the [first analysis steps](/first-analysis-steps-renamed/README) and satisfy all of its prerequisites.
 
 {% endprereq %}
 
